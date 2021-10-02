@@ -11,6 +11,7 @@ You can read more about [Magic 8-Ball](https://en.wikipedia.org/wiki/Magic_8-Bal
 
 ### Running ###
 
-You can run:  
+1. Download repo to your local directory.  
+2. You can run:  
 
         $ ruby 8ball.rb
